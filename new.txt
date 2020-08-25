@@ -1,1 +1,2 @@
 This is new one commiting under Branch-1
+this belongs to master only
